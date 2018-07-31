@@ -5,6 +5,7 @@ The number of websites breached and personal data leaked have increased exponent
 Currently all data displayed by Breach-O-Meter is example data.
 
 # launch
+Make sure you're using the latest version of node.
 ```
 node app_simple.js
 ```
